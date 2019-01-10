@@ -1,0 +1,13 @@
+{
+	"tokenColors": "./OneDark.old.tmTheme",
+	"colors": {
+		"editor.background": "#282C34",
+		"editor.foreground": "#ABB2BF",
+		"editorCursor.foreground": "#528BFF",
+		"editorWhitespace.foreground": "#3C4049",
+		"editor.lineHighlightBackground": "#2C313A",
+		"editor.selectionBackground": "#3E4451",
+		"editorIndentGuide.background": "#3C4049"
+	},
+	"name": "Atom One Dark"
+}

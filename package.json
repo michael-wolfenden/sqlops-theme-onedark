@@ -1,0 +1,23 @@
+{
+    "name": "sqlops-theme-onedark",
+    "displayName": "Atom One Dark",
+    "description": "One Dark Theme based on Atom",
+    "version": "0.0.1",
+    "publisher": "michael-wolfenden",
+    "engines": {
+        "vscode": "^1.30.0",
+        "sqlops": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atom One Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atom One Dark-color-theme.json"
+            }
+        ]
+    }
+}

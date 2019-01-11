@@ -2,8 +2,12 @@
     "name": "sqlops-theme-onedark",
     "displayName": "Atom One Dark",
     "description": "One Dark Theme based on Atom",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "michael-wolfenden",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michael-wolfenden/sqlops-theme-onedark"
+    },
     "engines": {
         "vscode": "^1.30.0",
         "sqlops": "*"

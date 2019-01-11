@@ -1,7 +1,10 @@
-# Change Log
-All notable changes to the "sqlops-theme-onedark" extension will be documented in this file.
+# Changelog
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+All notable changes to this project will be documented in this file.
 
-## [Unreleased]
-- Initial release
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.0] - 2019-01-11
+
+-   Initial release

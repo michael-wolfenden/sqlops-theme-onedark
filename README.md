@@ -6,7 +6,9 @@ Azure Data Studio Theme based on [Atom's One Dark](https://github.com/atom/one-d
 
 ## Installation
 
-The current release is available to [download as a .vsix file](https://github.com/michael-wolfenden/sqlops-theme-onedark/releases) and can be installed by opening the command palette (`ctrl/command+shift+p`) and selecting `Extensions: Install from VSIX...`
+The current release is available to [download as a .vsix file](https://github.com/michael-wolfenden/sqlops-theme-onedark/releases) and can be installed by opening the command palette and selecting `Extensions: Install from VSIX...`
+
+Once installed, set your color theme to `Atom One Dark`
 
 ## License
 

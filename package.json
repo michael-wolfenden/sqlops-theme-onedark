@@ -23,5 +23,8 @@
                 "path": "./themes/Atom One Dark-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "package": "npx vsce package"
     }
 }

@@ -1,5 +1,7 @@
 # Atom One Dark Theme
 
+![Project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)
+
 Azure Data Studio Theme based on [Atom's One Dark](https://github.com/atom/one-dark-syntax) theme
 
 ![Atom One Dark Theme](https://raw.githubusercontent.com/michael-wolfenden/sqlops-theme-onedark/master/assets/screenshot.png)
